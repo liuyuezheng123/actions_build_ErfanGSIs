@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://qc3.androidfilehost.com/dl/lkt_d_41QGqsyJQL0D5MgA/1598419900/11410963190603866435/OnePlus6Oxygen_22_OTA_018_all_1811291854_a9f0280430d.zip?
-  ROM_NAME: OnePlus6Oxygen_22_OTA_018_all_1811291854_a9f0280430d
+  ROM_URL: https://oxygenos.oneplus.net/OnePlus6Oxygen_22_OTA_047_all_2007191515_bd6f7476887846cb.zip
+  ROM_NAME: OnePlus6Oxygen
   TZ: Asia/Shanghai
 
 jobs:
