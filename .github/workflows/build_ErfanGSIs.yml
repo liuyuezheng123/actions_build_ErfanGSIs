@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://download.h2os.com/OnePlus6/OPEN/OnePlus6Hydrogen_22_OTA_065_all_2004012102_98b5c6c8589049b7.zip
-  ROM_NAME: OnePlus6Hydrogen_22_OTA_065_all_2004012102_98b5c6c8589049b7
+  ROM_URL: https://qc3.androidfilehost.com/dl/lkt_d_41QGqsyJQL0D5MgA/1598419900/11410963190603866435/OnePlus6Oxygen_22_OTA_018_all_1811291854_a9f0280430d.zip?
+  ROM_NAME: OnePlus6Oxygen_22_OTA_018_all_1811291854_a9f0280430d
   TZ: Asia/Shanghai
 
 jobs:
