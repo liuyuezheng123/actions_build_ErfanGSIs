@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://oxygenos.oneplus.net/OnePlus7ProOxygen_21.O.07_OTA_007_all_1905120542_fc480574576b4843.zip
-  ROM_NAME: Oxygen
+  ROM_URL: http://download.h2os.com/OnePlus6/OPEN/OnePlus6Hydrogen_22_OTA_065_all_2004012102_98b5c6c8589049b7.zip
+  ROM_NAME: Flyme
   TZ: Asia/Shanghai
 
 jobs:
